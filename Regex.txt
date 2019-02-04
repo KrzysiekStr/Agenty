@@ -1,11 +1,11 @@
 1. [REGEX] Find at least 3 different ways to slice product from the category page
         http://www.mccabespharmacy.com/special-offers.html#/special-offers/shopby/nivea__.ht
        
-       https://regex101.com/r/vvePpx/6
-       https://regex101.com/r/vvePpx/8
-       https://regex101.com/r/vvePpx/9
+       https://regex101.com/r/S2vAl4/3
+       https://regex101.com/r/S2vAl4/4
+       https://regex101.com/r/S2vAl4/5
 
-       2. [REGEX] Following rule should match all possible variations of ‘xxxl’ size. Fix it or write your own (it should give at least 33 matches).
+       2. [REGEX] Following rule should match all possible variations of â€˜xxxlâ€™ size. Fix it or write your own (it should give at least 33 matches).
 https://regex101.com/r/55OzkR/2
        
        https://regex101.com/r/55OzkR/14
