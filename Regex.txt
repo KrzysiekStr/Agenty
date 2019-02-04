@@ -1,0 +1,38 @@
+1. [REGEX] Find at least 3 different ways to slice product from the category page
+        http://www.mccabespharmacy.com/special-offers.html#/special-offers/shopby/nivea__.ht
+       
+       https://regex101.com/r/vvePpx/6
+       https://regex101.com/r/vvePpx/8
+       https://regex101.com/r/vvePpx/9
+
+       2. [REGEX] Following rule should match all possible variations of ‘xxxl’ size. Fix it or write your own (it should give at least 33 matches).
+https://regex101.com/r/55OzkR/2
+       
+       https://regex101.com/r/55OzkR/14
+       
+3.[REGEX] Write regex that will check if string:
+	-is minimum 8 chars long
+		-contains at least 1 digit
+		-contains 1 uppercase char
+		-contains 1 lowercase char
+
+https://regex101.com/r/55OzkR/15
+
+
+4. Write regexps that will slice all products from following pages:
+       https://www.prolyd.no/avdelinger/produkter (25 matches)
+       https://regex101.com/r/55OzkR/16
+       Or 
+       https://regex101.com/r/55OzkR/17
+
+       http://www.electromania.fr/robot-divers-c-30_40.html (7 matches)
+       
+       404
+       
+       http://etstore.co.uk/items.asp?Cc=174&iTpStatus=0&Tp=&Bc= (28 matches)
+       
+	404
+
+
+
+
