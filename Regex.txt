@@ -16,7 +16,7 @@ https://regex101.com/r/55OzkR/2
 		-contains 1 uppercase char
 		-contains 1 lowercase char
 
-https://regex101.com/r/55OzkR/15
+https://regex101.com/r/55OzkR/18
 
 
 4. Write regexps that will slice all products from following pages:
